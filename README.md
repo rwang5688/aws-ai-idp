@@ -1,2 +1,2 @@
 # aws-ai-idp
-Official AWS Samples repo where these notebooks came from: https://github.com/aws-samples/aws-ai-intelligent-document-processing/tree/main/gen-ai
+Tweaked versions of the official AWS Samples notebooks came this repo: [https://github.com/aws-samples/aws-ai-intelligent-document-processing/tree/main/gen-ai](https://github.com/aws-samples/aws-ai-intelligent-document-processing)
